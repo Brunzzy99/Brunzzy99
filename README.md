@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Bruno,
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Java.
